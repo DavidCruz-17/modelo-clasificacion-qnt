@@ -1,0 +1,5 @@
+outs:
+- md5: 099a7ec9dc61005c941e05f742b60743
+  size: 70045024
+  hash: md5
+  path: base_original.xlsx
