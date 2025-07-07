@@ -11,4 +11,5 @@ openpyxl
 pyngrok
 missingno
 ydata-profiling==4.6.2
-prince
+princedash-bootstrap-components==1.4.1
+prince==0.12.1
